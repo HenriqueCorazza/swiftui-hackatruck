@@ -6,8 +6,8 @@
 
 | Nº | Descrição                                                                                 | Caminho                                                          |
 |----|--------------------------------------------------------------------------------------------|------------------------------------------------------------------|
-| 🔹 [1](Day01/4%20cantos) | Criar uma view com um quadrado de cores diferentes em cada canto da tela       | [`Day01/4 cantos`](Day01/4%20cantos) |
-| 🔹 [2](Day01/HStack)     | Montar uma HStack com imagem e texto                                        | [`Day01/HStack`](Day01/HStack)       |
+| 🔹 [1](4%20cantos) | Criar uma view com um quadrado de cores diferentes em cada canto da tela       | [`Day01/4 cantos`](4%20cantos) |
+| 🔹 [2](HStack)     | Montar uma HStack com imagem e texto                                        | [`Day01/HStack`](HStack)       |
 
 > 💡 Clique nos números ou caminhos para visualizar os códigos dos desafios.
 

@@ -4,8 +4,8 @@
 
 | Nº   | Descrição                                                                      | Caminho                                                           |
 |------|--------------------------------------------------------------------------------|-------------------------------------------------------------------|
-| 🔹 [1](Day03/TabView)     | Realizar troca entre telas utilizando `TabView`                      | [`Day03/TabView`](Day03/TabView)         |
-| 🔹 [2](Day03/Navigation)  | Utilização de `NavigationStack` para navegação entre diversas telas | [`Day03/Navigation`](Day03/Navigation)   |
+| 🔹 [1](TabView)     | Realizar troca entre telas utilizando `TabView`                      | [`Day03/TabView`](TabView)         |
+| 🔹 [2](Navigation)  | Utilização de `NavigationStack` para navegação entre diversas telas | [`Day03/Navigation`](Navigation)   |
 
 > 💡 Clique nos números ou caminhos para visualizar os códigos dos desafios.
 

@@ -6,7 +6,7 @@
 
 | Nº   | Descrição                                                                                             | Caminho                                     |
 |------|--------------------------------------------------------------------------------------------------------|---------------------------------------------|
-| 🔹 [1](Day06/RestSwiftUI) | Consumir a API pública de Rick and Morty e exibir personagens e episódios em uma interface com navegação | [`Day06/RestSwiftUI`](Day06/RestSwiftUI) |
+| 🔹 [1](RestSwiftUI) | Consumir a API pública de Rick and Morty e exibir personagens e episódios em uma interface com navegação | [`Day06/RestSwiftUI`](RestSwiftUI) |
 
 > 💡 Clique no número ou caminho para visualizar o código do desafio.
 

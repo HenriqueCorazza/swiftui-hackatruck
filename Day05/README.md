@@ -7,7 +7,7 @@
 
 | Nº   | Descrição                                                                                     | Caminho                                   |
 |------|-----------------------------------------------------------------------------------------------|-------------------------------------------|
-| 🔹 [1](Day05/PontosTuristicos) | Criar um mapa interativo com pontos turísticos, usando anotação, picker de categoria e sheet informativa | [`Day05/PontosTuristicos`](Day05/TouristMap)     |
+| 🔹 [1](PontosTuristicos) | Criar um mapa interativo com pontos turísticos, usando anotação, picker de categoria e sheet informativa | [`Day05/PontosTuristicos`](PontosTuristicos)     |
 
 > 💡 Clique no número ou caminho para visualizar o código do desafio.
 

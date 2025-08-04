@@ -6,7 +6,7 @@
 
 | Nº   | Descrição                                                                                   | Caminho                                     |
 |------|----------------------------------------------------------------------------------------------|---------------------------------------------|
-| 🔹 [1](Day04/ListaCompleta) | Criar uma lista dinâmica com dados estruturados, exibindo imagens remotas e layout scrollável | [`Day04/ListaCompleta`](Day04/ListaCompleta) |
+| 🔹 [1](SpotifySwift) | Criar uma lista dinâmica com dados estruturados, exibindo imagens remotas e layout scrollável | [`Day04/SpotifySwift`](SpotifySwift) |
 
 > 💡 Clique no número ou caminho para visualizar o código do desafio.
 
@@ -26,3 +26,4 @@
   
 
 ---
+

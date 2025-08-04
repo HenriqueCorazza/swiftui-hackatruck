@@ -2,6 +2,11 @@
 
 Este repositório contém os desafios diários que resolvi durante o curso de SwiftUI.
 
+##⚠️Observação⚠️
+- 📅 O curso foi desenvolvido em 22 aulas, mescladas entre dias de desafio e dias de estudo.
+- 💻 Códigos desenvolvidos utilizando o MacBook do próprio projeto.
+- 👾 Utilizado X-Code para realizar os projetos.
+
 ## 🚀 Estrutura
 Cada pasta representa um dia do curso em que houve desafio, contendo os propostos e a resolução.
 

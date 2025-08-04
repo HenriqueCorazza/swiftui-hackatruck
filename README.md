@@ -25,3 +25,11 @@ Cada pasta representa um dia do curso em que houve desafio, contendo os proposto
 - Integração de funções nativas IOS com o código.
 - Utilização de Arduino para consumo de dados no SwiftUI
 - Gerenciamento de Stacks.
+
+## 👨‍💻 Tecnologias utilizadas
+
+- Node-Red
+- Cloudant
+- Gemini
+- SwiftUI
+- Arduino

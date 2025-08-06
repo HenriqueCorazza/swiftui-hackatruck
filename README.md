@@ -10,15 +10,15 @@ Este repositório contém os desafios diários que resolvi durante o curso de Sw
 ## 🚀 Estrutura
 Cada pasta representa um dia do curso em que houve desafio, contendo os propostos e a resolução.
 
-- 📅 **Day01**: Fundamentos de Views, Stacks e Modificadores
-- 📅 **Day02**: User Inputs, Text Field e @State
-- 📅 **Day03**: TabView e NavigationStack
-- 📅 **Day04**: Listas, Array, Structs e protocolo Hashable.
-- 📅 **Day05**: MapKit e Pickers
-- 📅 **Day06**: REST, consumindo APIs públicas.
-- 📅 **Day07**: API própria com NODE-RED
-- 📅 **Day08**: IOT, NODE-RED e SwiftUI, consumindo dados de sensores.
-- 📅 **Desafio Final**: Construção de Protótipo de APP, projeto final em grupo.
+- 📅 **[Day01](Day01)**: Fundamentos de Views, Stacks e Modificadores
+- 📅 **[Day02](Day02)**: User Inputs, Text Field e @State
+- 📅 **[Day03](Day03)**: TabView e NavigationStack
+- 📅 **[Day04](Day04)**: Listas, Array, Structs e protocolo Hashable.
+- 📅 **[Day05](Day05)**: MapKit e Pickers
+- 📅 **[Day06](Day06)**: REST, consumindo APIs públicas.
+- 📅 **[Day07](Day07)**: API própria com NODE-RED
+- 📅 **[Day08](Day08)**: IOT, NODE-RED e SwiftUI, consumindo dados de sensores.
+- 📅 **[Projeto-Final](Projeto-Final)**: Construção de Protótipo de APP, projeto final em grupo.
 
 ## 🧠 O que aprendi
 

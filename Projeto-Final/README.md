@@ -73,7 +73,7 @@ Criar um app intuitivo que ajude **idosos** a:
   - Navegação entre as Tabs
   - Navegação no mapa
 
-> O arquivo está disponível na raiz do repositório como [`FarmaHackVideo1`](FarmaHackVideo1) e [`FarmaHackVideo2`](FarmaHackVideo2)
+> O arquivo está disponível na raiz do repositório como [`FarmaHackVideo1`](FarmaHackVideo1.mp4) e [`FarmaHackVideo2`](FarmaHackVideo2.mp4)
 
 ---
 
@@ -94,4 +94,5 @@ O FarmaHack nasceu com o propósito de:
 🔄 Futuras melhorias podem incluir autenticação de usuários e integração com HealthKit.
 
 ---
+
 

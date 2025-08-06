@@ -19,7 +19,8 @@ Cada pasta representa um dia do curso em que houve desafio, contendo os proposto
 - 📅 **[Day07](Day07)**: API própria com NODE-RED
 - 📅 **[Day08](Day08)**: IOT, NODE-RED e SwiftUI, consumindo dados de sensores.
 - 📅 **[Projeto-Final](Projeto-Final)**: Construção de Protótipo de APP, projeto final em grupo.
-
+- 📑 **[Certificados](Certificados)**
+  
 ## 🧠 O que aprendi
 
 - Criação de interfaces reativas com SwiftUI
